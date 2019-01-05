@@ -31,7 +31,7 @@ namespace C_M_S
                 }
                 else
                 {
-                    string pathCMS = @"C:\Program Files (x86)\Partizan\Partizan CMS\CMS.exe";
+                    string pathCMS = @"C:\Program Files\Partizan\Partizan CMS 3.1.0.3\CMS.exe";
                     Process.Start(pathCMS);
                 }
             }
